@@ -1,0 +1,3 @@
+# CLI Task Manager - Dependencies
+# No external packages required; uses only Python standard library
+# Python >= 3.7 required
